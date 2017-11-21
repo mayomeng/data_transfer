@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="catche_module" />
+        <module name="data_module" />
+        <module name="mq_module" />
+        <module name="publish_module" />
+        <module name="service_module" />
+        <module name="start_module" />
+        <module name="subscribe_module" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="catche_module" target="1.8" />
+      <module name="data_module" target="1.8" />
+      <module name="data_transfer" target="1.8" />
+      <module name="mq_module" target="1.8" />
+      <module name="publish_module" target="1.8" />
+      <module name="service_module" target="1.8" />
+      <module name="start_module" target="1.8" />
+      <module name="subscribe_module" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

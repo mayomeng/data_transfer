@@ -1,0 +1,52 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "pers.mxy.data.transfer.catche.redis.RedisProperties",
+      "name": "redis",
+      "type": "pers.mxy.data.transfer.catche.redis.RedisProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "pers.mxy.data.transfer.catche.redis.RedisProperties",
+      "defaultValue": 0,
+      "name": "redis.default-max-redirections",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.catche.redis.RedisProperties",
+      "defaultValue": 0,
+      "name": "redis.default-timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.catche.redis.RedisProperties",
+      "defaultValue": 0,
+      "name": "redis.max-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.catche.redis.RedisProperties",
+      "defaultValue": 0,
+      "name": "redis.max-total",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.catche.redis.RedisProperties",
+      "defaultValue": 0,
+      "name": "redis.max-wait-millis",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.catche.redis.RedisProperties",
+      "name": "redis.ports",
+      "type": "java.util.List<java.lang.Integer>"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.catche.redis.RedisProperties",
+      "name": "redis.redis-hosts",
+      "type": "java.util.List<java.lang.String>"
+    }
+  ]
+}

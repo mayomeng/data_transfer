@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/catche_module/catche_module.iml" filepath="$PROJECT_DIR$/catche_module/catche_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_module/data_module.iml" filepath="$PROJECT_DIR$/data_module/data_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_transfer.iml" filepath="$PROJECT_DIR$/data_transfer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mq_module/mq_module.iml" filepath="$PROJECT_DIR$/mq_module/mq_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publish_module/publish_module.iml" filepath="$PROJECT_DIR$/publish_module/publish_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_module/service_module.iml" filepath="$PROJECT_DIR$/service_module/service_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/start_module/start_module.iml" filepath="$PROJECT_DIR$/start_module/start_module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subscribe_module/subscribe_module.iml" filepath="$PROJECT_DIR$/subscribe_module/subscribe_module.iml" />
+    </modules>
+  </component>
+</project>

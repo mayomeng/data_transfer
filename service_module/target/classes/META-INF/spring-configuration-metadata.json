@@ -1,0 +1,38 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "pers.mxy.data.transfer.common.SystemProperties",
+      "name": "system",
+      "type": "pers.mxy.data.transfer.common.SystemProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "pers.mxy.data.transfer.common.SystemProperties",
+      "defaultValue": 0,
+      "name": "system.batch-count",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.common.SystemProperties",
+      "name": "system.quotation-back-hash-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.common.SystemProperties",
+      "name": "system.quotation-back-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.common.SystemProperties",
+      "name": "system.quotation-hash-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.common.SystemProperties",
+      "name": "system.quotation-url",
+      "type": "java.lang.String"
+    }
+  ]
+}

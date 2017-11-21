@@ -1,0 +1,72 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "name": "rabbitmq",
+      "type": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "defaultValue": 0,
+      "name": "rabbitmq.concurrent-consumers",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "name": "rabbitmq.exchange-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "defaultValue": false,
+      "name": "rabbitmq.expose-listener-channel",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "name": "rabbitmq.host",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "defaultValue": 0,
+      "name": "rabbitmq.max-concurrent-consumers",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "name": "rabbitmq.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "defaultValue": 0,
+      "name": "rabbitmq.port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "defaultValue": 0,
+      "name": "rabbitmq.prefetch-count",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "name": "rabbitmq.queue-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "name": "rabbitmq.routing-key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "pers.mxy.data.transfer.mq.rabbitmq.RabbitMqProperties",
+      "name": "rabbitmq.username",
+      "type": "java.lang.String"
+    }
+  ]
+}
